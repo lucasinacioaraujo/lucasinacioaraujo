@@ -1,8 +1,6 @@
 - 👋 Olá, meu nome é Lucas Lima
 - 🌱 Estou iniciando na programação e aprendendo as linguagens Python e Javascript...
 
-- Linkedin: 
-
 <div align="center">
 <p><i> Redes Sociais:</i><br></p>
 <a href="https://www.linkedin.com/in/lucasinacioaraujo/" rel="nofollow">
