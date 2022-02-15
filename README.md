@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Lima
+- 👋 Olá, meu nome é Lucas Lima
 - 🌱 Estou iniciando na programação e aprendendo as linguagens Python e Javascript...
 
 - Linkedin: 
