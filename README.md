@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Lucas Lima
-- 🌱 Estou iniciando na programação e aprendendo as linguagens Python e Javascript...
+- 🌱 Estou iniciando na programação e aprendendo as linguagem Javascript, HTML, CSS e ReactJs.
 
 <div align="center">
 <p><i> Redes Sociais:</i><br></p>
